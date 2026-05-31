@@ -1,4 +1,4 @@
-# calciq releases
+# homebrew-calciq-releases
 
 Homebrew tap for [calciq](https://www.simplemind.dev/calciq) — a terminal-native calculator.
 
